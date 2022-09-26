@@ -1,0 +1,15 @@
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\bin\Debug\net6.0\tugas 1.exe
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\bin\Debug\net6.0\tugas 1.deps.json
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\bin\Debug\net6.0\tugas 1.runtimeconfig.json
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\bin\Debug\net6.0\tugas 1.dll
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\bin\Debug\net6.0\tugas 1.pdb
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.csproj.AssemblyReference.cache
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.AssemblyInfoInputs.cache
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.AssemblyInfo.cs
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.csproj.CoreCompileInputs.cache
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.dll
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\refint\tugas 1.dll
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.pdb
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\tugas 1.genruntimeconfig.cache
+C:\KULIAH\SEMESTER 3\PBO\PRAK\tugas 1\tugas 1\obj\Debug\net6.0\ref\tugas 1.dll
